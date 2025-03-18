@@ -1,0 +1,9 @@
+{
+    "config": {
+        "platform-check": false
+    },
+    "require": {
+        "phpseclib/phpseclib": "~3.0"
+    },
+    "prefer-stable" : true
+}
