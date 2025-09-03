@@ -1,5 +1,5 @@
 # A set of the standard plugins we use when setting up a new WordPress site
-Click on the <img src="download_btn.png" height="25" /> button then click "Download .zip file" and simply drag and drop all contents into /wp-content/.
+Click on the green "<> Code" button above then click "Download .zip file". Extract contents of the zip file somewhere and then simply drag and drop all contents into /wp-content/plugins.
 
 # This includes:
 * CAPTCHA Plugin (Advanced nocaptcha-recaptcha)
